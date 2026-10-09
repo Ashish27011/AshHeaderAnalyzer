@@ -1,0 +1,38 @@
+
+Target URL          : http://google.com
+Final URL           : http://google.com
+Status Code         : 200
+
+GENERAL HEADERS
+__________________________________________________________________________________________________________________________________
+
+Server              : gws
+Content-Type        : text/html; charset=ISO-8859-1
+Content-Length      : 29255
+Location            : None
+
+SECURITY HEADERS
+__________________________________________________________________________________________________________________________________
+
+Strict-Transport-Security : DENY
+Content-Security-Policy : DENY
+X-Frame-Options     : Present
+X-Content-Type-Options : DENY
+Referrer-Policy     : DENY
+Permissions-Policy  : DENY
+
+COOKIE
+__________________________________________________________________________________________________________________________________
+
+Set-Cookie          : Detected
+
+OBSERVATION
+__________________________________________________________________________________________________________________________________
+
+[!] Strict-Transport-Security not detected
+[!] Content-Security-Policy not detected
+[+] X-Frame-Options detected
+[!] X-Content-Type-Options not detected
+[!] Referrer-Policy not detected
+[!] Permissions-Policy not detected
+
